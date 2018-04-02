@@ -13,7 +13,6 @@ import VideoDetail from './components/video_detail';
 
 import {getKey} from '../config.js';
 
-//const API_KEY = 'AIzaSyDnOWu4bummrRH30Kx0wMdbKDQWk5Vk_2o';
 const API_KEY = getKey();
 
 
